@@ -1,1 +1,1 @@
-# cost-hashrate
+成本与算力关系研究
